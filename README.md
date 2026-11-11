@@ -45,3 +45,7 @@ git clone https://github.com/emobebra/taskboard.git
 ## Скріншот
 
 Скріншот головної сторінки буде додано до папки `images`.
+
+## Демо
+
+[Відкрити сайт](https://emobebra.github.io/taskboard/)
